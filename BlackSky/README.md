@@ -9,6 +9,6 @@ Shoot em up game.
 + Simple shooter game.
  
 * Date: 11/25/2018
-* Dev: Scratch
+* Dev: Scratch (Json)
 * Type: Shoot em Up Game
 * Coder: Kuro-Code
