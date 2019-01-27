@@ -24,3 +24,4 @@ Shoot em up game.
 + Add enemy
 + Add weapon
 + Add energie bar
++ Add sound
