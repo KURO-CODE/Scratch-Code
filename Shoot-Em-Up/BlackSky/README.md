@@ -19,8 +19,8 @@ Shoot em up game.
 * Type: Shoot'en up game.
 * Coded by Kuro-Code
 
-- Add level
-- Add Retry 
++ Add level
++ Add Retry 
 + Add enemy
 + Add weapon
 + Add energie bar
