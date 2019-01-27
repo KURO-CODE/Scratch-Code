@@ -12,15 +12,15 @@ Shoot em up game.
 * Dev: Scratch (Json)
 * Type: Shoot em Up Game
 * Coder: Kuro-Code
-+ 
-* Name: BlackSky 
-* Ver: 1.1 beta
+
+**Black Sky 1.1 beta** 
+
 * Date: 21/01/2019
 * Type: Shoot'en up game.
 * Coded by Kuro-Code
 
-+ Add level
-+ Add Retry 
+- Add level
+- Add Retry 
 + Add enemy
 + Add weapon
 + Add energie bar
