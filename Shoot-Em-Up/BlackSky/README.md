@@ -1,6 +1,6 @@
 
 # Black Sky
-![BLS.gif](https://github.com/KURO-CODE/Scratch-Code/blob/master/BlackSky/BLS.gif)
+![BlackSky.gif](https://github.com/KURO-CODE/Scratch-Code/blob/master/Shoot-Em-Up/BlackSky/BlackSky.gif)
 
 Shoot em up game.
 
