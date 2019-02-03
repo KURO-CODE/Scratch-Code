@@ -29,6 +29,6 @@ Shoot em up game.
 + Add Boss
 
 # USE
-1. Donload file BlackSky-1.0.sb3 
+1. Donload file BlackSky-1.1.sb3 
 2. Create an account on [scratch](https://scratch.mit.edu/)
 3. Enjoy game! :)
