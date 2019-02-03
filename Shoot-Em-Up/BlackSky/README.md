@@ -25,3 +25,5 @@ Shoot em up game.
 + Add weapon
 + Add energie bar
 + Add sound
++ Add sound FX
++ Add Boss
