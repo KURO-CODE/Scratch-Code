@@ -27,3 +27,8 @@ Shoot em up game.
 + Add sound
 + Add sound FX
 + Add Boss
+
+# USE
+1. Donload file BlackSky-1.0.sb3 
+2. Create an account on [scratch](https://scratch.mit.edu/)
+3. Enjoy game! :)
